@@ -1,0 +1,187 @@
+250 100 900000:
+1
+Total Interpolation Time = 0.247281 seconds
+Total Normalization Time = 0.001546 seconds
+Total Mover Time = 0.281123 seconds
+Total Denormalization Time = 0.000791 seconds
+Total Algorithm Time = 0.530740 seconds
+Total Number of Voids = 2
+2
+Total Interpolation Time = 0.123933 seconds
+Total Normalization Time = 0.000838 seconds
+Total Mover Time = 0.142368 seconds
+Total Denormalization Time = 0.000766 seconds
+Total Algorithm Time = 0.267905 seconds
+Total Number of Voids = 2
+4
+Total Interpolation Time = 0.080228 seconds
+Total Normalization Time = 0.000532 seconds
+Total Mover Time = 0.076218 seconds
+Total Denormalization Time = 0.000497 seconds
+Total Algorithm Time = 0.157475 seconds
+Total Number of Voids = 2
+8
+Total Interpolation Time = 0.043517 seconds
+Total Normalization Time = 0.000355 seconds
+Total Mover Time = 0.041138 seconds
+Total Denormalization Time = 0.000408 seconds
+Total Algorithm Time = 0.085418 seconds
+Total Number of Voids = 2
+16
+Total Interpolation Time = 0.050387 seconds
+Total Normalization Time = 0.000379 seconds
+Total Mover Time = 0.038761 seconds
+Total Denormalization Time = 0.000621 seconds
+Total Algorithm Time = 0.090147 seconds
+Total Number of Voids = 2
+
+250 100 5000000:
+1
+Total Interpolation Time = 1.315100 seconds
+Total Normalization Time = 0.001526 seconds
+Total Mover Time = 1.516532 seconds
+Total Denormalization Time = 0.000779 seconds
+Total Algorithm Time = 2.833937 seconds
+Total Number of Voids = 15
+2
+Total Interpolation Time = 0.728795 seconds
+Total Normalization Time = 0.000901 seconds
+Total Mover Time = 0.846440 seconds
+Total Denormalization Time = 0.001145 seconds
+Total Algorithm Time = 1.577281 seconds
+Total Number of Voids = 15
+4
+Total Interpolation Time = 0.363207 seconds
+Total Normalization Time = 0.000495 seconds
+Total Mover Time = 0.424369 seconds
+Total Denormalization Time = 0.000658 seconds
+Total Algorithm Time = 0.788729 seconds
+Total Number of Voids = 15
+8
+Total Interpolation Time = 0.192709 seconds
+Total Normalization Time = 0.000378 seconds
+Total Mover Time = 0.216239 seconds
+Total Denormalization Time = 0.000342 seconds
+Total Algorithm Time = 0.409668 seconds
+Total Number of Voids = 15
+16
+Total Interpolation Time = 0.175341 seconds
+Total Normalization Time = 0.000398 seconds
+Total Mover Time = 0.190565 seconds
+Total Denormalization Time = 0.001016 seconds
+Total Algorithm Time = 0.367321 seconds
+Total Number of Voids = 15
+
+
+500 200 3600000:
+1
+Total Interpolation Time = 1.441771 seconds
+Total Normalization Time = 0.006044 seconds
+Total Mover Time = 1.629959 seconds
+Total Denormalization Time = 0.003267 seconds
+Total Algorithm Time = 3.081041 seconds
+Total Number of Voids = 3
+2
+Total Interpolation Time = 1.380664 seconds
+Total Normalization Time = 0.003336 seconds
+Total Mover Time = 1.562305 seconds
+Total Denormalization Time = 0.002755 seconds
+Total Algorithm Time = 2.949060 seconds
+Total Number of Voids = 3
+4
+Total Interpolation Time = 0.503202 seconds
+Total Normalization Time = 0.002723 seconds
+Total Mover Time = 0.587617 seconds
+Total Denormalization Time = 0.002603 seconds
+Total Algorithm Time = 1.096145 seconds
+Total Number of Voids = 3
+8
+Total Interpolation Time = 0.277612 seconds
+Total Normalization Time = 0.001037 seconds
+Total Mover Time = 0.295436 seconds
+Total Denormalization Time = 0.001976 seconds
+Total Algorithm Time = 0.576061 seconds
+Total Number of Voids = 3
+16
+Total Interpolation Time = 0.293448 seconds
+Total Normalization Time = 0.001490 seconds
+Total Mover Time = 0.196912 seconds
+Total Denormalization Time = 0.001168 seconds
+Total Algorithm Time = 0.493018 seconds
+Total Number of Voids = 3
+
+
+500 200 20000000:
+1
+Total Interpolation Time = 6.977906 seconds
+Total Normalization Time = 0.006021 seconds
+Total Mover Time = 7.530541 seconds
+Total Denormalization Time = 0.003070 seconds
+Total Algorithm Time = 14.517539 seconds
+Total Number of Voids = 7
+2
+Total Interpolation Time = 3.992195 seconds
+Total Normalization Time = 0.003077 seconds
+Total Mover Time = 4.767281 seconds
+Total Denormalization Time = 0.001781 seconds
+Total Algorithm Time = 8.764333 seconds
+Total Number of Voids = 7
+4
+Total Interpolation Time = 2.456971 seconds
+Total Normalization Time = 0.001890 seconds
+Total Mover Time = 2.818509 seconds
+Total Denormalization Time = 0.001888 seconds
+Total Algorithm Time = 5.279258 seconds
+Total Number of Voids = 7
+8
+Total Interpolation Time = 1.500124 seconds
+Total Normalization Time = 0.001286 seconds
+Total Mover Time = 1.734594 seconds
+Total Denormalization Time = 0.001537 seconds
+Total Algorithm Time = 3.237541 seconds
+Total Number of Voids = 7
+16
+Total Interpolation Time = 1.211197 seconds
+Total Normalization Time = 0.001200 seconds
+Total Mover Time = 1.103209 seconds
+Total Denormalization Time = 0.001626 seconds
+Total Algorithm Time = 2.317231 seconds
+Total Number of Voids = 7
+
+
+1000 400 14000000:
+1
+Total Interpolation Time = 9.153022 seconds
+Total Normalization Time = 0.027259 seconds
+Total Mover Time = 11.180659 seconds
+Total Denormalization Time = 0.012347 seconds
+Total Algorithm Time = 20.373288 seconds
+Total Number of Voids = 0
+2
+Total Interpolation Time = 3.647902 seconds
+Total Normalization Time = 0.016013 seconds
+Total Mover Time = 3.397076 seconds
+Total Denormalization Time = 0.007968 seconds
+Total Algorithm Time = 7.068958 seconds
+Total Number of Voids = 0
+4
+Total Interpolation Time = 2.433635 seconds
+Total Normalization Time = 0.006536 seconds
+Total Mover Time = 2.161165 seconds
+Total Denormalization Time = 0.004140 seconds
+Total Algorithm Time = 4.605476 seconds
+Total Number of Voids = 0
+8
+Total Interpolation Time = 3.541763 seconds
+Total Normalization Time = 0.004920 seconds
+Total Mover Time = 1.785302 seconds
+Total Denormalization Time = 0.005275 seconds
+Total Algorithm Time = 5.337262 seconds
+Total Number of Voids = 0
+16
+Total Interpolation Time = 3.421246 seconds
+Total Normalization Time = 0.058326 seconds
+Total Mover Time = 0.863142 seconds
+Total Denormalization Time = 0.026190 seconds
+Total Algorithm Time = 4.368904 seconds
+Total Number of Voids = 0
