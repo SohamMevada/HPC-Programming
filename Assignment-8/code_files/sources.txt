@@ -1,0 +1,4 @@
+gics0 slots=1
+gics1 slots=1
+gics2 slots=1
+gics3 slots=1
